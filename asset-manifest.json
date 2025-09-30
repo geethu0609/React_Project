@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/geethu0609/React_Project/static/css/main.f2332c76.css",
+    "main.js": "/geethu0609/React_Project/static/js/main.3e1ac3ca.js",
+    "static/js/453.670e15c7.chunk.js": "/geethu0609/React_Project/static/js/453.670e15c7.chunk.js",
+    "static/media/banner2.png": "/geethu0609/React_Project/static/media/banner2.84851ec7ab777c7cd356.png",
+    "static/media/Kani.jpg": "/geethu0609/React_Project/static/media/Kani.e64269b0a837348c147a.jpg",
+    "static/media/banner1.jpg": "/geethu0609/React_Project/static/media/banner1.b085ae52368bc10d39fb.jpg",
+    "static/media/myself.jpg": "/geethu0609/React_Project/static/media/myself.a2eb96a0f93e36de50eb.jpg",
+    "static/media/niki3.jpg": "/geethu0609/React_Project/static/media/niki3.89f3b915d9f90020739b.jpg",
+    "index.html": "/geethu0609/React_Project/index.html",
+    "main.f2332c76.css.map": "/geethu0609/React_Project/static/css/main.f2332c76.css.map",
+    "main.3e1ac3ca.js.map": "/geethu0609/React_Project/static/js/main.3e1ac3ca.js.map",
+    "453.670e15c7.chunk.js.map": "/geethu0609/React_Project/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2332c76.css",
+    "static/js/main.3e1ac3ca.js"
+  ]
+}
